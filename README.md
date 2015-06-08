@@ -1,3 +1,14 @@
+#Version Info:
+
+##0.2
+
+1. Bug Fix
+2. Comments
+
+##0.1
+
+1. Release
+
 # Documentation
 
 ##Simple Demo:
