@@ -19,7 +19,7 @@ modaljs(title,body);
 
 ##Customize
 
-Edit the box"
+Edit the box
 
 ```
 .modal {
