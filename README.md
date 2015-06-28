@@ -1,5 +1,9 @@
 #Version Info:
 
+##0.3
+
+1. Ends with ```#``` on the end not ```#close```!
+
 ##0.2
 
 1. Bug Fix
