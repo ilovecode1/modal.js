@@ -1,4 +1,4 @@
-//Modal.js is by Cosmic Open Source Projects v0.2
+//Modal.js is by Cosmic Open Source Projects v0.3
 
 //How it works?
 
@@ -10,7 +10,7 @@ modaljs = function(title,body) {
 
   var was = document.body.innerHTML;
 
-  document.body.innerHTML = was + "<div id='openModal' class='modal'><div><a href='#close' title='Close' class='close'>X</a><h2>" + title + "</h2><p>" + body + "</p></div></div>";
+  document.body.innerHTML = was + "<div id='openModal' class='modal'><div><a href='javascript:window.location = '#close';window.location = '#;' title='Close' class='close'>X</a><h2>" + title + "</h2><p>" + body + "</p></div></div>";
   window.location = "#openModal";
 
 }
