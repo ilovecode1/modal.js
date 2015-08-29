@@ -1,3 +1,5 @@
+There is a error in 0.3 use 0.2 instead http://bit.ly/1N1WxeL!
+
 #Version Info:
 
 ##0.3
