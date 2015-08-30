@@ -19,6 +19,12 @@ Back to v0.2
 modaljs(title,body);
 ```
 
+##CSS Docs
+
+```.modal``` The Modal Box
+
+```.close``` The X Button
+
 ##Customize
 
 Edit the box
