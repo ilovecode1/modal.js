@@ -1,10 +1,6 @@
-There is a error in 0.3 use 0.2 instead http://bit.ly/1N1WxeL!
+Back to v0.2
 
 #Version Info:
-
-##0.3
-
-1. Ends with ```#``` on the end not ```#close```!
 
 ##0.2
 
