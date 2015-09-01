@@ -1,3 +1,7 @@
+#Help
+
+How could modal.js implement [draggable.js](http://gtramontina.github.io/draggable.js/)? Do a Pull Request if you know. Thanks!
+
 #Version Info:
 
 ##0.2.3
