@@ -40,6 +40,8 @@ Should work with all them (Yes even IE... Surprise!)!
 modaljs(title,body);
 ```
 
+* HTML Works!
+
 ##CSS Docs
 
 ```.modal``` The Modal Box
