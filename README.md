@@ -1,6 +1,6 @@
 #Hint
 
-For better results use demo.css
+For better results use demo.css and change the colors!
 
 #How Does it work?
 
