@@ -19,6 +19,10 @@ Should work with all them (Yes even IE... Surprise!)!
 
 #Version Info:
 
+##0.3
+
+1. More Responsive
+
 ##0.2.3
 
 1. More Custom
