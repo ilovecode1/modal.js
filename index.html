@@ -87,8 +87,8 @@
         <br>
         <button value="Play" onclick="modaljs('title','body');">Play</button>
         <script>
-       modaljs=function(o,d){var n=document.body.innerHTML;document.body.innerHTML=n+"<div id='openModal' class='modal'><div><a href='#close' title='Close' class='close'>X</a><h2>"+o+"</h2><p>"+d+"</p></div></div>",window.location="#openModal"}; modaljs("title","body");
-        </script>
+       modaljs=function(o,d){var a=document.body.innerHTML;document.body.innerHTML=a+"<style>.modal{font-size:20px}@media(max-width:1580px){.modal{font-size:18px}}@media(max-width:980px){.modal{font-size:16px}}</style><div id='openModal' class='modal'><div><a href='#close' title='Close' class='close'>X</a><h2 class='title'>"+o+"</h2><p class='body'>"+d+"</p></div></div>",window.location="#openModal"};
+       </script>
       </section>
     </div>
 
