@@ -1,10 +1,6 @@
-#Better Name
+#Hint
 
-Any Suggestions?
-
-#Help
-
-How could modal.js implement [draggable.js](http://gtramontina.github.io/draggable.js/)? Do a Pull Request if you know. Thanks!
+For better results use demo.css
 
 #How Does it work?
 
