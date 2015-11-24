@@ -1,4 +1,4 @@
-//Modal.js is by Cosmic Open Source Projects v0.3
+//Modal.js is by Cosmic Open Source Projects v0.4
 
 //How it works?
 
